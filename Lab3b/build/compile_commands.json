@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Alexandr/Desktop/AICD/Lab3b/build",
+  "command": "C:\\SysGCC\\mingw32\\bin\\gcc.exe  @CMakeFiles/lab3a.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\lab3a.dir\\functions.c.obj -c C:\\Users\\Alexandr\\Desktop\\AICD\\Lab3b\\functions.c",
+  "file": "C:/Users/Alexandr/Desktop/AICD/Lab3b/functions.c",
+  "output": "CMakeFiles/lab3a.dir/functions.c.obj"
+},
+{
+  "directory": "C:/Users/Alexandr/Desktop/AICD/Lab3b/build",
+  "command": "C:\\SysGCC\\mingw32\\bin\\gcc.exe  @CMakeFiles/lab3a.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\lab3a.dir\\main.c.obj -c C:\\Users\\Alexandr\\Desktop\\AICD\\Lab3b\\main.c",
+  "file": "C:/Users/Alexandr/Desktop/AICD/Lab3b/main.c",
+  "output": "CMakeFiles/lab3a.dir/main.c.obj"
+}
+]

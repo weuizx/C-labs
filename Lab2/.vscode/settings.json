@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "stdio.h": "c",
+    "stdbool.h": "c",
+    "functions.h": "c",
+    "stdlib.h": "c",
+    "windows.h": "c",
+    "random": "c",
+    "conio.h": "c",
+    "listversion.h": "c",
+    "array": "c",
+    "string_view": "c",
+    "initializer_list": "c",
+    "utility": "c"
+  }
+}

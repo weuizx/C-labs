@@ -1,0 +1,3 @@
+C:/Users/Alexandr/Desktop/AICD/Lab3b/build/CMakeFiles/lab3a.dir
+C:/Users/Alexandr/Desktop/AICD/Lab3b/build/CMakeFiles/edit_cache.dir
+C:/Users/Alexandr/Desktop/AICD/Lab3b/build/CMakeFiles/rebuild_cache.dir

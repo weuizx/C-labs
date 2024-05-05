@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Alexandr/Desktop/AICD/Lab4a/build",
+  "command": "C:\\SysGCC\\mingw32\\bin\\gcc.exe  @CMakeFiles/lab4a.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\lab4a.dir\\functions.c.obj -c C:\\Users\\Alexandr\\Desktop\\AICD\\Lab4a\\functions.c",
+  "file": "C:/Users/Alexandr/Desktop/AICD/Lab4a/functions.c",
+  "output": "CMakeFiles/lab4a.dir/functions.c.obj"
+},
+{
+  "directory": "C:/Users/Alexandr/Desktop/AICD/Lab4a/build",
+  "command": "C:\\SysGCC\\mingw32\\bin\\gcc.exe  @CMakeFiles/lab4a.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\lab4a.dir\\main.c.obj -c C:\\Users\\Alexandr\\Desktop\\AICD\\Lab4a\\main.c",
+  "file": "C:/Users/Alexandr/Desktop/AICD/Lab4a/main.c",
+  "output": "CMakeFiles/lab4a.dir/main.c.obj"
+}
+]
