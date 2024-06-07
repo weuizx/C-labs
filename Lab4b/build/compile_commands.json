@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Alexandr/Desktop/AISD/Lab4b/build",
+  "command": "C:\\SysGCC\\mingw32\\bin\\cc.exe  @CMakeFiles/lab4b.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\lab4b.dir\\functions.c.obj -c C:\\Users\\Alexandr\\Desktop\\AISD\\Lab4b\\functions.c",
+  "file": "C:/Users/Alexandr/Desktop/AISD/Lab4b/functions.c",
+  "output": "CMakeFiles/lab4b.dir/functions.c.obj"
+},
+{
+  "directory": "C:/Users/Alexandr/Desktop/AISD/Lab4b/build",
+  "command": "C:\\SysGCC\\mingw32\\bin\\cc.exe  @CMakeFiles/lab4b.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\lab4b.dir\\main.c.obj -c C:\\Users\\Alexandr\\Desktop\\AISD\\Lab4b\\main.c",
+  "file": "C:/Users/Alexandr/Desktop/AISD/Lab4b/main.c",
+  "output": "CMakeFiles/lab4b.dir/main.c.obj"
+}
+]

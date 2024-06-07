@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\lab4b.dir/objects.a
+C:\SysGCC\mingw32\bin\ar.exe qc CMakeFiles\lab4b.dir/objects.a @CMakeFiles\lab4b.dir\objects1.rsp
+C:\SysGCC\mingw32\bin\cc.exe -g -Wl,--whole-archive CMakeFiles\lab4b.dir/objects.a -Wl,--no-whole-archive -o lab4b.exe -Wl,--out-implib,liblab4b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lab4b.dir\linkLibs.rsp

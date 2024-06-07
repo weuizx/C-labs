@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Alexandr/Desktop/AISD/Lab5/build",
+  "command": "C:\\SysGCC\\mingw32\\bin\\cc.exe  @CMakeFiles/lab5.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\lab5.dir\\functions.c.obj -c C:\\Users\\Alexandr\\Desktop\\AISD\\Lab5\\functions.c",
+  "file": "C:/Users/Alexandr/Desktop/AISD/Lab5/functions.c",
+  "output": "CMakeFiles/lab5.dir/functions.c.obj"
+},
+{
+  "directory": "C:/Users/Alexandr/Desktop/AISD/Lab5/build",
+  "command": "C:\\SysGCC\\mingw32\\bin\\cc.exe  @CMakeFiles/lab5.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\lab5.dir\\main.c.obj -c C:\\Users\\Alexandr\\Desktop\\AISD\\Lab5\\main.c",
+  "file": "C:/Users/Alexandr/Desktop/AISD/Lab5/main.c",
+  "output": "CMakeFiles/lab5.dir/main.c.obj"
+}
+]
